@@ -1,6 +1,10 @@
 # Daily Inbox Briefing
 
-A [Claude Cowork](https://www.anthropic.com) scheduled task that runs every morning at 7am to triage your Gmail inbox, send a concise iMessage summary to your phone, and log action items directly into a Notion database — no manual effort required.
+This is another test to leverage AI to automate some recurring daily admin work. I leveraged Claude Cowork's scheduled task that runs every morning at 7am to triage my Gmail inbox, send a concise iMessage summary to my phone, and log action items directly into a Notion database — no manual effort required.
+
+I initially wanted to only apps within my phone (e.g. Reminders to-dos) but you will need to grant the permission while your laptop is awake (?). If you came across this repo and have answer, please let me know bc moving it to Notion somehow is not as clean as how I want it. But for any of you don't mind using Notion or has been a power user, feel free to leverage below process to make your life easier. 
+
+Next step, I wanted to see if I can upload my writing style to allow Cladue to reply some emails for me. Totally inspired by a reel I came across the other day that a guy created a process to automate his text to his girlfriend who went on a solo Bali trip for two weeks. Instead of doing moring/evening greeting + asking how she was doing, he downloaded their chat and make AI automatically respond to her text. LOL. Inspiring idea but guys, please don't generalize it, okay. LOL 
 
 ## What it does
 
